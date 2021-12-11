@@ -1,0 +1,6 @@
+10:42:34.177 [TestNG-tests-3] INFO  resources.Base - driver is intialized
+10:42:48.581 [TestNG-tests-3] INFO  resources.Base - hitting the ur
+10:42:48.676 [TestNG-tests-3] INFO  resources.Base - validate the text in browser matchs the actual text successful 
+11:55:24.337 [TestNG-tests-3] INFO  resources.Base - driver is intialized
+11:55:39.973 [TestNG-tests-3] INFO  resources.Base - hitting the ur
+11:55:39.977 [TestNG-tests-3] INFO  resources.Base - validate the text in browser matchs the actual text successful 

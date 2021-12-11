@@ -1,0 +1,7 @@
+01:25:43.559 [TestNG-tests-2] INFO  resources.Base - passed the test 
+10:22:40.423 [TestNG-tests-3] INFO  resources.Base - driver is intialized
+10:23:03.626 [TestNG-tests-3] INFO  resources.Base - hitting the ur
+10:23:03.676 [TestNG-tests-3] INFO  resources.Base - validate the text in browser matchs the actual text successful 
+10:23:08.912 [TestNG-tests-2] INFO  resources.Base - passed the test 
+10:23:13.614 [TestNG-tests-2] INFO  resources.Base - passed the test 
+10:31:32.539 [TestNG-tests-3] INFO  resources.Base - driver is intialized
